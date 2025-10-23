@@ -104,6 +104,7 @@ All trademarks and software names (e.g., *GrandMA2*, *MA Lighting*) are the prop
 ---
 
 ### 💾 Screenshot
-<img width="424" height="570" alt="image" src="https://github.com/user-attachments/assets/038af04a-737c-441c-bcae-61c313f82876" />
+<img width="426" height="574" alt="VGM" src="https://github.com/user-attachments/assets/fd219ff0-70df-4672-9063-1a6fdd564b86" />
+
 
 
