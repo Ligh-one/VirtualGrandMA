@@ -1,7 +1,7 @@
 # 🧰 VirtualGrandMA  
 ### Virtual USB Utility for GrandMA2 onPC
 
-**GMA2Toolkit** is a lightweight Windows application that simplifies the creation and management of **virtual USB drives** for **MA Lighting’s GrandMA** consoles and onPC software.  
+**VirtualGrandMA** is a lightweight Windows application that simplifies the creation and management of **virtual USB drives** for **MA Lighting’s GrandMA onPC software** (and others!)
 It provides a modern, intuitive UI and handles everything from `.img` creation to automatic mounting using the **ImDisk Toolkit** — no command-line work needed.
 
 ---
